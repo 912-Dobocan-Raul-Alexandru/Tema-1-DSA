@@ -24,7 +24,7 @@ void BagIterator::next() {
 
 
 bool BagIterator::valid() const {
-	if (current<bag.maximum-bag.minimum)
+	if (current<bag.size())
 		return true;
 	else
 		return false;

@@ -47,6 +47,8 @@ public:
 	//find the position of an element
 	int find(TElem e) const;
 
+    //empty the bag
+    void empty();
 	//destructor
 	~Bag();
 };
