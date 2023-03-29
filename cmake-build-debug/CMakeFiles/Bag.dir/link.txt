@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Bag.dir/App.cpp.o CMakeFiles/Bag.dir/Bag.cpp.o CMakeFiles/Bag.dir/BagIterator.cpp.o CMakeFiles/Bag.dir/ShortTest.cpp.o CMakeFiles/Bag.dir/ExtendedTest.cpp.o -o Bag 

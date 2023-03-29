@@ -1,0 +1,3 @@
+/mnt/c/Users/Raul/Data structures and algorithms/Interfaces2/Interfaces/Bag/cmake-build-debug/CMakeFiles/Bag.dir
+/mnt/c/Users/Raul/Data structures and algorithms/Interfaces2/Interfaces/Bag/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Raul/Data structures and algorithms/Interfaces2/Interfaces/Bag/cmake-build-debug/CMakeFiles/rebuild_cache.dir
